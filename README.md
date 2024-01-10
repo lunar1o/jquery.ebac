@@ -1,4 +1,4 @@
-# jquery.ebac
+# jQuery
 
 # "write less, do more"
 
